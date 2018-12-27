@@ -1,5 +1,9 @@
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/puma-3.12.0/ext/puma_http11
+<<<<<<< HEAD
 /home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-17847-dt0hvu.rb extconf.rb
+=======
+/home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-4903-1blpgdq.rb extconf.rb
+>>>>>>> finish static page
 checking for BIO_read() in -lcrypto... yes
 checking for SSL_CTX_new() in -lssl... yes
 checking for openssl/bio.h... yes
@@ -53,4 +57,8 @@ linking shared-object puma/puma_http11.so
 
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/puma-3.12.0/ext/puma_http11
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 puma_http11.so ./.gem.20181227-17847-kynyua/puma
+=======
+/usr/bin/install -c -m 0755 puma_http11.so ./.gem.20181227-4903-1veahjg/puma
+>>>>>>> finish static page

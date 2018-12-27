@@ -1,5 +1,9 @@
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/ext/sqlite3
+<<<<<<< HEAD
 /home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-17847-13y0fx9.rb extconf.rb
+=======
+/home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-4903-x6pchc.rb extconf.rb
+>>>>>>> finish static page
 checking for sqlite3.h... yes
 checking for pthread_create() in -lpthread... yes
 checking for sqlite3_libversion_number() in -lsqlite3... yes
@@ -30,4 +34,8 @@ linking shared-object sqlite3/sqlite3_native.so
 
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/sqlite3-1.3.13/ext/sqlite3
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 sqlite3_native.so ./.gem.20181227-17847-xo24k1/sqlite3
+=======
+/usr/bin/install -c -m 0755 sqlite3_native.so ./.gem.20181227-4903-1pahs3r/sqlite3
+>>>>>>> finish static page

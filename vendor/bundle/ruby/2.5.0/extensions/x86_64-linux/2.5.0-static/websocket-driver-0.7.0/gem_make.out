@@ -1,5 +1,9 @@
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
+<<<<<<< HEAD
 /home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-17847-t1acvi.rb extconf.rb
+=======
+/home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-4903-13f2t3u.rb extconf.rb
+>>>>>>> finish static page
 creating Makefile
 
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
@@ -12,4 +16,8 @@ linking shared-object websocket_mask.so
 
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.0/ext/websocket-driver
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20181227-17847-1v11t08
+=======
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20181227-4903-1tjtca7
+>>>>>>> finish static page

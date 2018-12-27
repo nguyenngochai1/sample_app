@@ -1,5 +1,9 @@
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
+<<<<<<< HEAD
 /home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-17847-zbzc6f.rb extconf.rb
+=======
+/home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-4903-yrciom.rb extconf.rb
+>>>>>>> finish static page
 creating Makefile
 
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
@@ -16,4 +20,8 @@ linking shared-object byebug/byebug.so
 
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/byebug-10.0.2/ext/byebug
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 byebug.so ./.gem.20181227-17847-jwm75v/byebug
+=======
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20181227-4903-1a9yxme/byebug
+>>>>>>> finish static page

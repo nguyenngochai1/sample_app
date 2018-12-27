@@ -1,5 +1,9 @@
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
+<<<<<<< HEAD
 /home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-17847-1tw25t9.rb extconf.rb
+=======
+/home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-4903-agsbf0.rb extconf.rb
+>>>>>>> finish static page
 checking for unistd.h... yes
 checking for sys/select.h... yes
 checking for port_event_t in poll.h... no
@@ -293,4 +297,8 @@ linking shared-object nio4r_ext.so
 
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/nio4r-2.3.1/ext/nio4r
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20181227-17847-kroetz
+=======
+/usr/bin/install -c -m 0755 nio4r_ext.so ./.gem.20181227-4903-26n51t
+>>>>>>> finish static page

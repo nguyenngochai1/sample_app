@@ -1,5 +1,9 @@
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/msgpack-1.2.4/ext/msgpack
+<<<<<<< HEAD
 /home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-17847-i634v8.rb extconf.rb
+=======
+/home/nguyen/.rbenv/versions/2.5.3/bin/ruby -r ./siteconf20181227-4903-15vdvy5.rb extconf.rb
+>>>>>>> finish static page
 checking for ruby/st.h... yes
 checking for st.h... yes
 checking for rb_str_replace() in ruby.h... yes
@@ -51,4 +55,8 @@ linking shared-object msgpack/msgpack.so
 
 current directory: /home/nguyen/learn_ruby/sample_app/vendor/bundle/ruby/2.5.0/gems/msgpack-1.2.4/ext/msgpack
 make "DESTDIR=" install
+<<<<<<< HEAD
 /usr/bin/install -c -m 0755 msgpack.so ./.gem.20181227-17847-1l17s1t/msgpack
+=======
+/usr/bin/install -c -m 0755 msgpack.so ./.gem.20181227-4903-kc32lx/msgpack
+>>>>>>> finish static page
