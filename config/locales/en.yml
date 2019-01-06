@@ -31,12 +31,33 @@
 
 en:
   base_title: "Ruby on Rails Tutorial Sample App"
+  layouts:
+    footer:
+      small: "The <a href='http://www.railstutorial.org/'>Ruby on Rails Tutorial</a>
+      by <a href='http://www.michaelhartl.com/'>Michael Hartl</a>"
+      about: "About"
+      contact: "Contact"
+      new: "News"
+    header:
+      home: "Home"
+      help: "Help"
+      login: "Log in"
+      sampleapp: "sample app"
+  users:
+    new:
+      signup: "Sign up"
+      content: "This will be a signup page for new users."
+      title: "Sign up"
   static_pages:
     home:
       title: "Home"
-      samapp: "Sample App"
-      content: "This is the home page for the <a href='http://www.railstutorial.org/'>
-      Ruby on Rails Tutorial</a> sample application."
+      h1: "Welcome to the Sample App"
+      h2: "This is the home page for the
+      <a href='http://www.railstutorial.org/'>Ruby on Rails Tutorial</a>
+      sample application."
+      rails_logo: "Rails logo"
+      cat: "cat"
+      signup: "Sign up now!"
 
     help:
       title: "Help"
