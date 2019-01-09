@@ -134,7 +134,7 @@ GEM
     guard-minitest (2.4.4)
       guard-compat (~> 1.2)
       minitest (>= 3.0)
-    i18n (1.4.0)
+    i18n (1.5.1)
       concurrent-ruby (~> 1.0)
     io-like (0.3.0)
     jbuilder (2.8.0)
@@ -162,7 +162,7 @@ GEM
       builder
       minitest (>= 5.0)
       ruby-progressbar
-    msgpack (1.2.4)
+    msgpack (1.2.6)
     multi_json (1.13.1)
     nenv (0.3.0)
     nio4r (2.3.1)

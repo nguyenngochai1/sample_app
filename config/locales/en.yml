@@ -31,6 +31,12 @@
 
 en:
   base_title: "Ruby on Rails Tutorial Sample App"
+  welcome: "Welcome to the Sample App!"
+  user_notfound: "user was not found!"
+  new: "new"
+  form_errors_counter:
+    one: "The form contains %{count} error."
+    other: "The form contains %{count} errors."
   layouts:
     footer:
       small: "The <a href='http://www.railstutorial.org/'>Ruby on Rails Tutorial</a>
@@ -48,6 +54,7 @@ en:
       signup: "Sign up"
       content: "This will be a signup page for new users."
       title: "Sign up"
+      submit_text: "Create my account"
   static_pages:
     home:
       title: "Home"
