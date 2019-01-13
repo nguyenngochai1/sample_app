@@ -34,9 +34,20 @@ en:
   welcome: "Welcome to the Sample App!"
   user_notfound: "user was not found!"
   new: "new"
+  controllers:
+    users_controller:
+      welcome: "Welcome to the Sample App!"
+      usernotfound: "User not found!"
+    sessions_controller:
+      danger: "Invalid email/password combination"
   form_errors_counter:
     one: "The form contains %{count} error."
     other: "The form contains %{count} errors."
+  sessions:
+    new:
+      title: "Log in"
+      signup: "Sign up now!"
+      remember: "Remember me on this computer"
   layouts:
     footer:
       small: "The <a href='http://www.railstutorial.org/'>Ruby on Rails Tutorial</a>
@@ -49,6 +60,10 @@ en:
       help: "Help"
       login: "Log in"
       sampleapp: "sample app"
+      logout: "Log out"
+      profile: "Profile"
+      settings: "Settings"
+      users: "Users"
   users:
     new:
       signup: "Sign up"
